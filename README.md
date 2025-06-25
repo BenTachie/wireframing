@@ -71,5 +71,67 @@ A login wireframe may show username and password fields with a “Login” butto
 
 ---
 
->  Wireframes strip away visual noise to focus purely on usability, functionality, and user flow- they’re where design meets strategy.
+>  Wireframes strip away visual noise to focus purely on usability, functionality, and user flow, they’re where design meets strategy. 
+
+---
+---
+
+## Types of Wireframes
+
+Wireframes can be categorised based on their level of detail, purpose, and proximity to the final design. The two most common types are:
+
+---
+
+### 🧾 Low-Fidelity Wireframes
+
+These are **basic, grayscale sketches** that focus on structure and layout without visual styling. They are fast to create and ideal for early-stage brainstorming, quick iterations, and user flow mapping.
+
+**Characteristics:**
+- Simple boxes and placeholders
+- No colour or typography
+- Hand-drawn or built using basic tools
+- Focused on **layout and functionality**
+
+**Used in:**
+- Early design discussions
+- Rapid ideation and iteration
+- User flow validation
+
+---
+
+### 🎨 High-Fidelity Wireframes (Mock-ups)
+
+These are **detailed representations** that closely resemble the final product. They include actual UI elements, fonts, icons, colors, and sometimes basic interactions.
+
+**Characteristics:**
+- Accurate spacing, sizing, and alignment
+- Real content or high-quality placeholders
+- Colour schemes and visual hierarchy
+- Often built using design tools like Figma or Adobe XD
+
+**Used in:**
+- Final design handoff to developers
+- Stakeholder/client approvals
+- Usability testing and user feedback
+
+---
+
+## Example Wireframe Analysis
+
+**Link:** [View the Figma File](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=d8uttIgZe3nkR3cN-0)
+
+This Figma file represents a **high-fidelity wireframe** (also known as a design mock-up) for a mobile version of an **Airbnb Clone Application**.
+
+---
+
+### 📱 Highlights of This Wireframe:
+
+- **Screens included:** Sign Up, Log In, Home, Property Details, and Reservation
+- **Design fidelity:** High — includes consistent typography, visual hierarchy, spacing, icons, and colour palette
+- **Tools used:** Figma — a professional UI/UX design tool
+- **Purpose:** UI handoff to developers, presentation to stakeholders, and advanced usability validation
+
+> This wireframe bridges the gap between conceptual design and development-ready UI, it is an essential step before front-end implementation begins.
+
+
 
