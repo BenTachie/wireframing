@@ -124,7 +124,7 @@ This Figma file represents a **high-fidelity wireframe** (also known as a design
 
 ---
 
-### 📱 Highlights of This Wireframe:
+### Highlights of This Wireframe:
 
 - **Screens included:** Sign Up, Log In, Home, Property Details, and Reservation
 - **Design fidelity:** High — includes consistent typography, visual hierarchy, spacing, icons, and colour palette
@@ -132,6 +132,45 @@ This Figma file represents a **high-fidelity wireframe** (also known as a design
 - **Purpose:** UI handoff to developers, presentation to stakeholders, and advanced usability validation
 
 > This wireframe bridges the gap between conceptual design and development-ready UI, it is an essential step before front-end implementation begins.
+---
+---
+
+## Popular Wireframing Tools
+
+Wireframing tools help designers, developers, and product teams create structured, interactive, and collaborative design blueprints. The right tool can enhance productivity, communication, and creativity during the UI/UX process.
+
+Here are some of the most popular tools used in the industry:
+
+---
+
+### Recommended: Figma
+
+[Figma](https://www.figma.com) is a browser-based design and prototyping tool widely used for UI/UX design, wireframing, and real-time collaboration.
+
+**Why Figma is Ideal for Wireframing:**
+- 🧩 **Component-Based Design:** Reuse design elements like buttons, cards, and layouts for scalable design systems.
+- 🤝 **Real-Time Collaboration:** Multiple team members can work on the same file simultaneously.
+- 🌐 **Cross-Platform:** Works in-browser and also offers desktop apps for Mac and Windows.
+- 🖼️ **Low- to High-Fidelity Capable:** Quickly transition from rough sketches to polished mock-ups in the same environment.
+- 🗂️ **Version History & Commenting:** Track changes and gather feedback without leaving the design.
+
+> *Figma is an all-in-one solution- perfect for individual creators, agile teams, and large-scale enterprise UX.*
+
+---
+
+### Other Popular Tools
+
+| Tool        | Description                                                                 |
+|-------------|-----------------------------------------------------------------------------|
+| **Adobe XD** | Great for high-fidelity design and prototyping with Adobe Creative Cloud integration |
+| **Sketch**   | A Mac-only design tool with strong plugin support and component systems     |
+| **Balsamiq** | Known for its low-fidelity, hand-drawn aesthetic- perfect for quick sketching |
+| **Whimsical**| Ideal for simple, collaborative flowcharts and wireframes                   |
+| **Draw.io (diagrams.net)** | A free, browser-based tool good for diagrams and basic wireframes |
+
+---
+
+> The choice of wireframing tool often depends on project complexity, team size, and fidelity needs. Figma remains a leading choice due to its power, flexibility, and team-friendly features.
 
 
 
